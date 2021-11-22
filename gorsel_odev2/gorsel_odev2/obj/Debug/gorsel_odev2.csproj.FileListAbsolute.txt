@@ -1,0 +1,11 @@
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\bin\Debug\gorsel_odev2.exe.config
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\bin\Debug\gorsel_odev2.exe
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\bin\Debug\gorsel_odev2.pdb
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\obj\Debug\gorsel_odev2.csprojAssemblyReference.cache
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\obj\Debug\gorsel_odev2.Properties.Resources.resources
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\obj\Debug\gorsel_odev2.csproj.GenerateResource.cache
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\obj\Debug\gorsel_odev2.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\obj\Debug\gorsel_odev2.exe
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\obj\Debug\gorsel_odev2.pdb
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\obj\Debug\gorsel_odev2.Form2.resources
+C:\Users\Yasin\source\repos\gorsel_odev2\gorsel_odev2\obj\Debug\gorsel_odev2.Form1.resources
